@@ -141,10 +141,4 @@ A comprehensive collection of Java programming exercises, practice problems, and
 - [Pen.java](/Programing%20Elements/Lab%20Practice%202/src/Pen.java) - Pen calculation
 - [side_of_square.java](/Programing%20Elements/Lab%20Practice%202/src/side_of_square.java) - Square side
 
-## 🚀 How to Use
 
-1. **Click on any folder link** to explore the contents
-2. **Click on individual Java files** to view the source code
-3. **Clone the repository** for local use:
-   ```bash
-   git clone https://github.com/navnishrajput/Java-Basic-Problems.git
