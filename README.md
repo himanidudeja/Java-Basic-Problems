@@ -1,18 +1,39 @@
-# Java Basic Problems Repository
+# Java Basic Problems Repository 🚀
 
 A comprehensive collection of Java programming exercises, practice problems, and logical questions organized into structured modules.
 
 ## 📁 Repository Structure
 
-### [Arrays Module](/Arrays/)
+### [Arrays Module](/Arrays/) 📊
 - **Description**: Array manipulation and operations
-- **Contents**:
-  - [Lab Practice 2](/Arrays/Lab%20Practice%202/)
-    - [BMI.java](/Arrays/Lab%20Practice%202/src/BMI.java) - Body Mass Index calculator
-    - [Main.java](/Arrays/Lab%20Practice%202/src/Main.java) - Main class
-    - [StudentGrade.java](/Arrays/Lab%20Practice%202/src/StudentGrade.java) - Student grading system
 
-### [Class Work Module](/Class%20Work/)
+#### [Lab Practice 1](/Arrays/Lab%20Practice%201/) 🔢
+- [FactorsArray.java](/Arrays/Lab%20Practice%201/src/FactorsArray.java) - Array factors calculator
+- [FizzBuzzArray.java](/Arrays/Lab%20Practice%201/src/FizzBuzzArray.java) - FizzBuzz with arrays
+- [Main.java](/Arrays/Lab%20Practice%201/src/Main.java) - Main class
+- [MeanHeight.java](/Arrays/Lab%20Practice%201/src/MeanHeight.java) - Average height calculator
+- [MultiplicationTable.java](/Arrays/Lab%20Practice%201/src/MultiplicationTable.java) - Multiplication table
+- [MultiplicationTableRange.java](/Arrays/Lab%20Practice%201/src/MultiplicationTableRange.java) - Range multiplication table
+- [NumberCheck.java](/Arrays/Lab%20Practice%201/src/NumberCheck.java) - Number validation
+- [OddEvenArrays.java](/Arrays/Lab%20Practice%201/src/OddEvenArrays.java) - Odd/even array operations
+- [PowerCalculatorWhile.java](/Arrays/Lab%20Practice%201/src/PowerCalculatorWhile.java) - Power calculation with while loop
+- [StoreNumbers.java](/Arrays/Lab%20Practice%201/src/StoreNumbers.java) - Number storage system
+- [TwoDToOneD.java](/Arrays/Lab%20Practice%201/src/TwoDToOneD.java) - 2D to 1D array conversion
+
+#### [Lab Practice 2](/Arrays/Lab%20Practice%202/) 📋
+- [BMI.java](/Arrays/Lab%20Practice%202/src/BMI.java) - Body Mass Index calculator
+- [BMIMULTI.java](/Arrays/Lab%20Practice%202/src/BMIMULTI.java) - Multiple BMI calculator
+- [DigitFrequency.java](/Arrays/Lab%20Practice%202/src/DigitFrequency.java) - Digit frequency counter
+- [EmployeeBonus.java](/Arrays/Lab%20Practice%202/src/EmployeeBonus.java) - Employee bonus system
+- [FindLargestDigits.java](/Arrays/Lab%20Practice%202/src/FindLargestDigits.java) - Largest digit finder
+- [LargestDigits.java](/Arrays/Lab%20Practice%202/src/LargestDigits.java) - Alternative largest digit finder
+- [Main.java](/Arrays/Lab%20Practice%202/src/Main.java) - Main class
+- [ReverseNumber.java](/Arrays/Lab%20Practice%202/src/ReverseNumber.java) - Number reverser
+- [StudentGrade.java](/Arrays/Lab%20Practice%202/src/StudentGrade.java) - Student grading system
+- [StudentGrade2.java](/Arrays/Lab%20Practice%202/src/StudentGrade2.java) - Alternative grading system
+- [YoungestTallest.java](/Arrays/Lab%20Practice%202/src/YoungestTallest.java) - Youngest and tallest finder
+
+### [Class Work Module](/Class%20Work/) 📝
 - **Description**: Fundamental Java programs and basic concepts
 - **Contents**:
   - [Arth.java](/Class%20Work/src/Arth.java) - Arithmetic operations
@@ -21,10 +42,10 @@ A comprehensive collection of Java programming exercises, practice problems, and
   - [Main.java](/Class%20Work/src/Main.java) - Main class
   - [Variable.java](/Class%20Work/src/Variable.java) - Variable examples
 
-### [Control Flow Module](/Control%20Flow/)
+### [Control Flow Module](/Control%20Flow/) ⚡
 - **Description**: Control flow statements and logical programs
 
-#### [Lab Practice 1](/Control%20Flow/Lab%20Practice%201/)
+#### [Lab Practice 1](/Control%20Flow/Lab%20Practice%201/) 1️⃣
 - [bonus.java](/Control%20Flow/Lab%20Practice%201/src/bonus.java) - Bonus calculation
 - [CountDown.java](/Control%20Flow/Lab%20Practice%201/src/CountDown.java) - Countdown program
 - [CountDown2.java](/Control%20Flow/Lab%20Practice%201/src/CountDown2.java) - Alternative countdown
@@ -45,7 +66,7 @@ A comprehensive collection of Java programming exercises, practice problems, and
 - [SumUntilZeroOrNegative.java](/Control%20Flow/Lab%20Practice%201/src/SumUntilZeroOrNegative.java) - Sum until zero/negative
 - [Vote.java](/Control%20Flow/Lab%20Practice%201/src/Vote.java) - Voting eligibility check
 
-#### [Lab Practice 2](/Control%20Flow/Lab%20Practice%202/)
+#### [Lab Practice 2](/Control%20Flow/Lab%20Practice%202/) 2️⃣
 - [bonus.java](/Control%20Flow/Lab%20Practice%202/src/bonus.java) - Bonus calculation
 - [fact.java](/Control%20Flow/Lab%20Practice%202/src/fact.java) - Factorial
 - [fact2.java](/Control%20Flow/Lab%20Practice%202/src/fact2.java) - Alternative factorial
@@ -62,7 +83,7 @@ A comprehensive collection of Java programming exercises, practice problems, and
 - [PowerCalculator.java](/Control%20Flow/Lab%20Practice%202/src/PowerCalculator.java) - Power calculation
 - [PowerCalculatorWhile.java](/Control%20Flow/Lab%20Practice%202/src/PowerCalculatorWhile.java) - Power with while
 
-#### [Lab Practice 3](/Control%20Flow/Lab%20Practice%203/)
+#### [Lab Practice 3](/Control%20Flow/Lab%20Practice%203/) 3️⃣
 - [AbundantNumber.java](/Control%20Flow/Lab%20Practice%203/src/AbundantNumber.java) - Abundant number check
 - [ArmstrongNumber.java](/Control%20Flow/Lab%20Practice%203/src/ArmstrongNumber.java) - Armstrong number
 - [Arth.java](/Control%20Flow/Lab%20Practice%203/src/Arth.java) - Arithmetic operations
@@ -76,22 +97,22 @@ A comprehensive collection of Java programming exercises, practice problems, and
 - [Prime.java](/Control%20Flow/Lab%20Practice%203/src/Prime.java) - Prime number check
 - [StudentGrade.java](/Control%20Flow/Lab%20Practice%203/src/StudentGrade.java) - Student grading system
 
-### [Logical Questions Module](/Logical%20Questions/)
+### [Logical Questions Module](/Logical%20Questions/) 🧠
 - **Description**: 20 logical programming challenges
 - **Contents**:
   - [Main.java](/Logical%20Questions/src/Main.java) - Main entry point
   - [Ques1.java](/Logical%20Questions/src/Ques1.java) to [Ques20.java](/Logical%20Questions/src/Ques20.java) - Logical questions 1-20
 
-### [Practice Problem Module](/Practice%20Problem/)
+### [Practice Problem Module](/Practice%20Problem/) 💻
 - **Description**: Hands-on coding practice
 - **Contents**:
   - [Main.java](/Practice%20Problem/src/Main.java) - Main class
   - [Ques1.java](/Practice%20Problem/src/Ques1.java) to [Ques10.java](/Practice%20Problem/src/Ques10.java) - Practice problems 1-10
 
-### [Programming Elements Module](/Programing%20Elements/)
+### [Programming Elements Module](/Programing%20Elements/) 🔧
 - **Description**: Basic programming elements and exercises
 
-#### [Lab Practice 1](/Programing%20Elements/Lab%20practice%201/)
+#### [Lab Practice 1](/Programing%20Elements/Lab%20practice%201/) 🔠
 - [area_of_triangle.java](/Programing%20Elements/Lab%20practice%201/area_of_triangle.java) - Triangle area
 - [Calculatea_price.java](/Programing%20Elements/Lab%20practice%201/Calculatea_price.java) - Price calculation
 - [distance_yard_miles.java](/Programing%20Elements/Lab%20practice%201/distance_yard_miles.java) - Distance conversion
@@ -101,7 +122,7 @@ A comprehensive collection of Java programming exercises, practice problems, and
 - [Quotient_reminder.java](/Programing%20Elements/Lab%20practice%201/Quotient_reminder.java) - Quotient & remainder
 - [side_of_square.java](/Programing%20Elements/Lab%20practice%201/side_of_square.java) - Square side calculation
 
-#### [Lab Practice 2](/Programing%20Elements/Lab%20Practice%202/)
+#### [Lab Practice 2](/Programing%20Elements/Lab%20Practice%202/) 🔡
 - [Age.java](/Programing%20Elements/Lab%20Practice%202/src/Age.java) - Age calculation
 - [area_of_triangle.java](/Programing%20Elements/Lab%20Practice%202/src/area_of_triangle.java) - Triangle area
 - [Avrage.java](/Programing%20Elements/Lab%20Practice%202/src/Avrage.java) - Average calculation
